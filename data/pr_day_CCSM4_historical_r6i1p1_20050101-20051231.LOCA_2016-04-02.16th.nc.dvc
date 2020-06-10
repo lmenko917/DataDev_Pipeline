@@ -1,0 +1,7 @@
+md5: b1947b61317e4167bbbfcea2d396e40f
+outs:
+- md5: f5134d021876bde3ae557813a5b5bc84
+  path: pr_day_CCSM4_historical_r6i1p1_20050101-20051231.LOCA_2016-04-02.16th.nc
+  cache: true
+  metric: false
+  persist: false
