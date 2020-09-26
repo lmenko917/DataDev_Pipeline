@@ -8,7 +8,7 @@ DVC is a data version control tool that integrates with git to track changes to 
 
 To replicate in local environment:
 
-1. git clone https://git.mckinsey-solutions.com/Lori-Fomenko/DataDev_Pipeline.git
+1. git clone https://github.com/lmenko917/DataDev_Pipeline.git
 
 2. cd DataDev_Pipeline/
 
